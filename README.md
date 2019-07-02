@@ -18,16 +18,9 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
 > **The way it works**
 
-> - 1) There is a system that is stationary and simulates the water drops, the water drops are white spheres
-> - 2) A Camera records the behaviour of the white spheres and prjects them on the car's windshield
-> - 3) Unlike the car, the system is stationary, but it reads the G-Force of the car to simulate the water drops realistically.
-
-#### <i class="icon-file"></i> Create a document
-
-The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
-
-
-
+> - [1] There is a system that is stationary and simulates the water drops, the water drops are white spheres
+> - [2] A Camera records the behaviour of the white spheres and prjects them on the car's windshield
+> - [3] Unlike the car, the system is stationary, but it reads the G-Force of the car to simulate the water drops realistically.
 
 ### Support this asset!
 
