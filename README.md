@@ -24,9 +24,9 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
 > ## NOTICE
 >
-> -The very first thing you have to do after downloading the project, is to open it and then go to the Physics Layers option. There, you can see which layers collide with the other layers. Thus, setting up physics layer collisions is vital for the performance of your Unity project.
-> -The second thing you have to do, is to observe which game objects have the layers.
-> -And the next thing is to check how the hierarchy, cameras parameters, and rigid-body collision types are set. These are self-explanatory, hopefully, you can understand how everything is set up now.
+> --The very first thing you have to do after downloading the project, is to open it and then go to the Physics Layers option. There, you can see which layers collide with the other layers. Thus, setting up physics layer collisions is vital for the performance of your Unity project.
+> --The second thing you have to do, is to observe which game objects have the layers.
+> --And the next thing is to check how the hierarchy, cameras parameters, and rigid-body collision types are set. These are self-explanatory, hopefully, you can understand how everything is set up now.
 
 ### Support this asset!
 
