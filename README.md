@@ -28,7 +28,7 @@ When you play the scene, you notice water drops react to the acceleration and a 
 > 2. A Camera records the behavior of the white spheres and projects them on the car's windshield, the shader of the windshield calculates the shape of the waterdrops via GPU.
 > 3. Unlike the car, the system is stationary, but it reads the G-Force of the car to simulate the water drops realistically.
 
-> ## NOTICE
+> ## NOTICE!
 >
 > - The very first thing you have to do after downloading the project, is to open it and then go to the Physics Layers option. There, you can see which layers collide with the other layers. Thus, setting up physics layer collisions is vital for the performance of your Unity project.
 > - The second thing you have to do, is to observe which game objects have the layers.
