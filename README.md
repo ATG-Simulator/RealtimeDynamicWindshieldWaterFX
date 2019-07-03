@@ -25,7 +25,7 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
 > **The way it works**
 >
-> 1. There is a system that is stationary and simulates the water drops, the water drops are white spheres via CPU.
+> 1. There is a system that is stationary and simulates the water drops, the water drops are white spheres.
 > 2. A Camera records the behavior of the white spheres and projects them on the car's windshield, the shader of the windshield calculates the shape of the waterdrops via GPU.
 > 3. Unlike the car, the system is stationary, but it reads the G-Force of the car to simulate the water drops realistically.
 
