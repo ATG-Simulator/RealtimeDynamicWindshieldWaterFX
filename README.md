@@ -2,8 +2,7 @@ Real-time Windshield Waterdrops FX
 ===================
 with a bonus 3D car model!
 -------------
-This is an FX for Unity for recreating the water drops when hitting a car windshield and its wipers.
-This is inspired by the amazing FX of the *Drive Club* video game. Originally it was made in 2015 by me, with the help of Eric Chadwick and Obscura from PolyCount for [AroundTheGround: Kish Simulator](http://AroundTheGround.tk), A Unity3D passion project.
+This is an FX for Unity for recreating the water drops when hitting a car windshield and its wipers.it is inspired by the amazing FX of the *Drive Club* video game. Originally it was made in 2015 by me, with the help of Eric Chadwick and Obscura from PolyCount for [AroundTheGround: Kish Simulator](http://AroundTheGround.tk), A Unity3D passion project.
 
 After some time I decided to share it as I stopped developing it. Make this FX the world's best one for the community if possible!!
 Each script has comments and guidelines. Hopefully, editing and modifying this Unity asset is easy for you. Regards.
