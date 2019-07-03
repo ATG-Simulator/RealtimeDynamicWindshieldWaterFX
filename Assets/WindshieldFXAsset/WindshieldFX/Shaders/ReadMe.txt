@@ -1,0 +1,1 @@
+Use ShaderForge visual shader editor to explore the shader, I tired to make it easy to understand. Shader Forge 1.39 works prefectly in Unity 2018.4.3f1 and it is free.
