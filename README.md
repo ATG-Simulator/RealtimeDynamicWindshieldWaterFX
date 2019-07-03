@@ -24,7 +24,7 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
 > **The way it works**
 >
-> 1. There is a system that is stationary and simulates the water drops, the water drops are white spheres.
+> 1. There is a system that is stationary and simulates the water drops, the water drops are white spheres being controlled by CPU.
 > 2. A Camera records the behavior of the white spheres and projects them on the car's windshield, the shader of the windshield calculates the shape of the waterdrops via GPU.
 > 3. Unlike the car, the system is stationary, but it reads the G-Force of the car to simulate the water drops realistically.
 
@@ -38,6 +38,10 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
   I commented on every important line of the scripts, hopefully, everything is easy to understand. Have fun improving this asset for the community.
   This asset was made for my [Around The Ground](http://AroundTheGround.TK) passion project, You may check it out if you like.
+
+### A Demo
+  Here is a small demo of this asset in [Around The Ground](http://www.AroundTheGround.tk) simulator project.
+[![Click here to watch the video](https://img.youtube.com/vi/GjkCOBWZC1A/0.jpg)](https://youtu.be/GjkCOBWZC1A?t=190)
   
 ### Checkout [this blog post](http://project92.ir/driveclub-water-drops-effect-unity3d-318/) for more details and information.
 
