@@ -5,7 +5,7 @@ with a bonus [3D car model](https://www.cgtrader.com/free-3d-models/car/standard
 This is an FX for Unity for recreating the water drops when hitting a car windshield and its wipers. it is inspired by the amazing FX of the *Drive Club* video game. Originally it was made in 2015 by me, [with the help of Eric Chadwick and Obscura from PolyCount](https://polycount.com/discussion/155940/animating-normal-maps-to-achieve-rain-drops-in-3ds-max-or-unity3d) for [a Unity3D passion project](http://project92.ir/).
 
 After some time I decided to share it as I stopped developing it. Make this FX the world's best one for the community if possible!!
-Each script has comments and guidelines. Hopefully, editing and modifying this Unity asset is easy for you. Regards.
+Each script has comments and guidelines. Hopefully, editing and modifying this Unity asset is easy for you.
 
 ----------
 
