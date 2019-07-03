@@ -9,7 +9,7 @@ Each script has comments and guidelines. Hopefully, editing and modifying this U
 
 ----------
 
-Installation
+[Installation]
 -------------
 > 1. Open a new empty project in Unity
 > 2. Copy and paste the contents of the "Assets" folder here to there
@@ -17,7 +17,7 @@ Installation
 > 4. Open the scene called "Main" in "Assets\WindshieldFXAsset\SceneData"
 > 5. Have fun playing with the asset!
 
-How it works
+[How it works]
 -------------
 
 When you play the scene, you notice water drops react to the acceleration and a set of imaginary windshield wipers.  That is because a "hidden" set of objects are calculating the behavior of the waterdrops. In the below text, you'll learn how this "hidden" system is working.
