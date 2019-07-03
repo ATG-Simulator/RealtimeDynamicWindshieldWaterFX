@@ -1,4 +1,5 @@
-Real-time Windshield Waterdrops FX (with a bonus 3D car model!) for FREE for all
+Real-time Windshield Waterdrops FX
+with a bonus 3D car model! FREE for all
 ===================
 
 
