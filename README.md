@@ -37,7 +37,6 @@ When you play the scene, you notice water drops react to the acceleration and a 
 ### Support this asset!
 
   I commented on every important line of the scripts, hopefully, everything is easy to understand. Have fun improving this asset for the community.
-  This asset was made for my [Around The Ground](http://AroundTheGround.TK) passion project, You may check it out if you like.
 
 ### A Demo
 
