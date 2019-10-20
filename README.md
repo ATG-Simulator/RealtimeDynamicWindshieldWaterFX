@@ -15,7 +15,7 @@ Installation
 > 2. Copy and paste the contents of the "Assets" folder here to there
 > 3. Go to the physics settings in Unity and uncheck every check mark for the "water" and the "TransparentFX" layers. Then, only check the "TransparentFX/Water" and "Water/Water" checkmarks.
 > 4. Open the scene called "Main" in "Assets\WindshieldFXAsset\SceneData"
-> 5. Download ShaderForge for Unity 2018/3 here: https://github.com/roguesleipnir/ShaderForge
+> 5. Download ShaderForge for Unity 2018.3 or later here: https://github.com/roguesleipnir/ShaderForge
 > 6. Open the scene called "Main" in "WindshieldFXAsset\SceneData"
 > 7. Have fun playing with the asset!
 
