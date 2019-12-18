@@ -44,7 +44,7 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
   Here is a small demo of this asset in [Around The Ground](http://www.AroundTheGround.tk) simulator project.
   
-<span style="display:block;text-align:center">[![Click here to watch the video](https://img.youtube.com/vi/GjkCOBWZC1A/0.jpg)](https://youtu.be/GjkCOBWZC1A?t=190)</span>
+<span style="display:block;text-align:center">[![Click here to watch the video](https://img.youtube.com/vi/04xqSVFx7uo/0.jpg)](https://youtu.be/04xqSVFx7uo?t=394)</span>
   
 ##### Checkout [this blog post](https://www.AroundTheGround.tk/driveclub-water-drops-effect-unity3d-318/) for more details and information.
 
