@@ -11,7 +11,7 @@ Each script has comments and guidelines. Hopefully, editing and modifying this U
 
 Installation
 -------------
-Please watch this quick start video here: https://youtu.be/04xqSVFx7uo.
+Please watch a video for more convenience here: https://youtu.be/04xqSVFx7uo.
 > 1. Open a new empty project in Unity
 > 2. Copy and paste the contents of the "Assets" folder here to there
 > 3. Go to the physics settings in Unity and uncheck every check mark for the "water" and the "TransparentFX" layers. Then, only check the "TransparentFX/Water" and "Water/Water" checkmarks.
