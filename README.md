@@ -2,7 +2,7 @@ Real-time Windshield Waterdrops FX
 ===================
 with a bonus [3D car model](https://www.cgtrader.com/free-3d-models/car/standard/low-poly-car-for-video-games)!
 -------------
-This is an FX for Unity for recreating the water drops when hitting a car windshield and its wipers. it is inspired by the amazing FX of the *Drive Club* video game. Originally it was made in 2015 by me, [with the help of Eric Chadwick and Obscura from PolyCount](https://polycount.com/discussion/155940/animating-normal-maps-to-achieve-rain-drops-in-3ds-max-or-unity3d) for [a Unity3D passion project](http://aroundtheground.tk).
+This is an FX for Unity for recreating the water drops when hitting a car windshield and its wipers. it is inspired by the amazing FX of the *Drive Club* video game. Originally it was made in 2015 by me, [with the help of Eric Chadwick and Obscura from PolyCount](https://polycount.com/discussion/155940/animating-normal-maps-to-achieve-rain-drops-in-3ds-max-or-unity3d) for [a Unity3D passion project](http://ATG-Simulator.com/Kish).
 
 After some time I decided to share it as I stopped developing it. Make this FX the world's best one for the community if possible!!
 Each script has comments and guidelines. Hopefully, editing and modifying this Unity asset is easy for you.
@@ -43,11 +43,11 @@ When you play the scene, you notice water drops react to the acceleration and a 
 
 ### A Demo
 
-  Here is a small demo of this asset in [Around The Ground](http://www.AroundTheGround.tk) simulator project.
+  Here is a small demo of this asset in [Around The Ground](http://www.ATG-Simulator.com/Kish) simulator project.
   
 <span style="display:block;text-align:center">[![Click here to watch the video](https://img.youtube.com/vi/04xqSVFx7uo/0.jpg)](https://youtu.be/04xqSVFx7uo?t=394)</span>
   
-##### Checkout [this blog post](https://www.AroundTheGround.tk/driveclub-water-drops-effect-unity3d-318/) for more details and information.
+##### Checkout [this blog post](https://www.ATG-Simulator.com/Kish/driveclub-water-drops-effect-unity3d-318/) for more details and information.
 
 Regards,
 Dan.
